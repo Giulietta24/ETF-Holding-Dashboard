@@ -3,5 +3,3 @@ yfinance
 pandas
 matplotlib
 requests
-lxml
-html5lib
